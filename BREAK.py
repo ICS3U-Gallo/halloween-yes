@@ -79,7 +79,7 @@ def draw_start():
     arcade.draw_text("You've been assigned a mission...", 235, 338, arcade.color.GREEN, font_size=9)
     arcade.draw_text("It has been discovered that", 235, 326, arcade.color.GREEN, font_size=9)
     arcade.draw_text("Casa Loma has been taken over", 235, 314, arcade.color.GREEN, font_size=9)
-    arcade.draw_text("By an arsenal of ancient spirits.", 235, 302, arcade.color.GREEN, font_size=9)
+    arcade.draw_text("by an arsenal of ancient spirits.", 235, 302, arcade.color.GREEN, font_size=9)
     arcade.draw_text("It is your job to rescue the people", 235, 290, arcade.color.GREEN, font_size=9)
     arcade.draw_text("trapped in each room of the castle.", 235, 278, arcade.color.GREEN, font_size=9)
     arcade.draw_text("There are 4 keys in each room,", 235, 266, arcade.color.GREEN, font_size=9)
